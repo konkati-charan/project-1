@@ -1,4 +1,4 @@
-YouTube Sentiment Analysis
+**YouTube Sentiment Analysis**
 This Python project performs sentiment analysis on YouTube comments to gauge public opinion and sentiment towards specific videos. It leverages natural language processing (NLP) and machine learning techniques to analyze the tone and emotions expressed in comments.
 
 Features
@@ -18,7 +18,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/youtube-sentiment-analysis.git
+git clone https://github.com/konkati-charan/youtube-sentiment-analysis.git
 cd youtube-sentiment-analysis
 Install Dependencies:
 
