@@ -40,8 +40,3 @@ The script will fetch comments, analyze sentiments, and output results as visual
 Contributing
 Feel free to submit issues, feature requests, or pull requests. Contributions are welcome!
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-For questions or feedback, contact your-email@example.com.
